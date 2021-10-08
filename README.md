@@ -1,2 +1,2 @@
 # bootstrap-project-one
-This project has been build focusing majorly on Bootstrap.
+These projects were build focusing majorly on Bootstrap.
